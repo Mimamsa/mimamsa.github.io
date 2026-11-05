@@ -9,10 +9,10 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="font-size: 0.75rem;">
-      <p style="white-space: nowrap;">Rm. 409, 2nd Administration Bldg.</p>
-      <p style="white-space: nowrap;">No. 1, Zhonggang Rd., Xiaogang Dist.</p>
-      <p style="white-space: nowrap;">Kaohsiung City 81233, Taiwan (R.O.C.)</p>
+    <div style="font-size: 0.5rem;">
+      <p style="white-space: nowrap;">Rm 409, 2nd Administration Bldg</p>
+      <p style="white-space: nowrap;">No 1, Zhonggang Rd, Xiaogang Dist</p>
+      <p style="white-space: nowrap;">Kaohsiung City, Taiwan (R.O.C.)</p>
     </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -2,7 +2,7 @@ cv:
   name: Yu-Hsien Chen
   label: Engineer
   email: illusion.dark@gmail.com
-  location: Kaohsiung City, Taiwan (R.O.C.)
+  location: Taiwan
   image: ""
   summary: Research engineer with a background in machine learning, robotics, and sensor-based systems across industrial automation and healthcare. Experienced in LiDAR mapping, SLAM, stockpile volume estimation, and warehouse localization at China Steel Corporation. Previously worked on vision-guided robotic picking, tactile sensing for medical applications, and millimeter-wave radar for sleep apnea detection at Wistron. Skilled in developing algorithms and integrating software with hardware to turn research ideas into practical prototypes and field-tested systems.
 
@@ -20,12 +20,12 @@ cv:
     city: Kaohsiung City
     region: 
     postalCode: 
-    countryCode: Taiwan (R.O.C.)
+    countryCode: Taiwan
 
   sections:
     Education:
       - institution: National Chung Cheng University
-        location: Chiayi County, Taiwan (R.O.C.)
+        location: Chiayi County, Taiwan
         url: https://www.ccu.edu.tw/?Lang=en
         area: Computer Science
         studyType: Master's Degree
@@ -34,24 +34,24 @@ cv:
         score: "Overall GPA: 4.64/5, Rank: 2/48"
         courses: 
         highlights:
-          - Thesis: Learning to Drive in TORCS with Deep Reinforcement Learning
+          - "Thesis: Learning to Drive in TORCS with Deep Reinforcement Learning"
           - Taught machine learning as a teaching assistant (TA).
 
       - institution: National Cheng Kung University
-        location: Tainan City, Taiwan (R.O.C.)
+        location: Tainan City, Taiwan
         url: https://web.ncku.edu.tw/index.php?Lang=en
         area: Computer Science
         studyType: Bachelor's degree
         start_date: 2007-06-01
         end_date: 2012-09-01
         highlights:
-          - Graduation project: Use NMF algorithm to predict changes in appearance of people as they grow up
+          - "Graduation project: Use NMF algorithm to predict changes in appearance of people as they grow up"
           - Served as a system administrator of the NCKU Dreamland BBS under the Computer and Network Enthusiast Society (CCNS).
 
     Experience:
       - company: China Steel Corporation
         position: Research Fellow
-        location: Kaohsiung City, Taiwan (R.O.C.)
+        location: Kaohsiung City, Taiwan
         start_date: 2025-12-01
         end_date: 
         summary: 
@@ -61,7 +61,7 @@ cv:
 
       - company: MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
         position: Visiting Scholar
-        location: Boston, Massachusetts, US
+        location: Boston, MA, US
         start_date: 2022-03-07
         end_date: 2023-09-07
         highlights:
@@ -70,7 +70,7 @@ cv:
 
       - company: Wistron Corporation
         position: Engineer
-        location: Kaohsiung City, Taiwan (R.O.C.)
+        location: Kaohsiung City, Taiwan
         start_date: 2018-05-07
         end_date: 2025-11-27
         highlights:
@@ -80,7 +80,7 @@ cv:
     Alternative Service:
       - company: Taiwan Chiayi District Prosecutors Office
         position: Alternative Service Conscript (Administrative Support)
-        location: Chiayi City, Taiwan (R.O.C.)
+        location: Chiayi City, Taiwan
         start_date: 2012-10
         end_date: 2013-09
         summary: Completed compulsory alternative civilian service, supporting case assignment operations by classifying and checking incoming case files and routing them to prosecutors.
