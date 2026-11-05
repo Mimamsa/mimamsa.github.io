@@ -9,9 +9,11 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rm. 409, 2nd Administration Bldg.</p>
-    <p>No. 1, Zhonggang Rd., Xiaogang Dist.</p>
-    <p>Kaohsiung City 81233, Taiwan (R.O.C.)</p>
+    <div style="font-size: 0.75rem;">
+      <p style="white-space: nowrap;">Rm. 409, 2nd Administration Bldg.</p>
+      <p style="white-space: nowrap;">No. 1, Zhonggang Rd., Xiaogang Dist.</p>
+      <p style="white-space: nowrap;">Kaohsiung City 81233, Taiwan (R.O.C.)</p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,7 +24,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
