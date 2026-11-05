@@ -2,24 +2,24 @@ cv:
   name: Yu-Hsien Chen
   label: Engineer
   email: illusion.dark@gmail.com
-  location: Kaohsiung City, Taiwan (ROC)
+  location: Kaohsiung City, Taiwan (R.O.C.)
   image: ""
   summary: Research engineer with a background in machine learning, robotics, and sensor-based systems across industrial automation and healthcare. Experienced in LiDAR mapping, SLAM, stockpile volume estimation, and warehouse localization at China Steel Corporation. Previously worked on vision-guided robotic picking, tactile sensing for medical applications, and millimeter-wave radar for sleep apnea detection at Wistron. Skilled in developing algorithms and integrating software with hardware to turn research ideas into practical prototypes and field-tested systems.
 
 
   social_networks:
     - network: X
-      username:
+      username: 
     - network: GitHub
       username: Mimamsa
     - network: LinkedIn
       username: yu-hsien-chen-165bb5a3
 
   address:
-    street:
+    street: 
     city: Kaohsiung City
-    region:
-    postalCode:
+    region: 
+    postalCode: 
     countryCode: Taiwan (R.O.C.)
 
   sections:
@@ -32,7 +32,7 @@ cv:
         start_date: 2014-09-01
         end_date: 2017-02-01
         score: "Overall GPA: 4.64/5, Rank: 2/48"
-        courses:
+        courses: 
         highlights:
           - Thesis: Learning to Drive in TORCS with Deep Reinforcement Learning
           - Taught machine learning as a teaching assistant (TA).
@@ -42,8 +42,8 @@ cv:
         url: https://web.ncku.edu.tw/index.php?Lang=en
         area: Computer Science
         studyType: Bachelor's degree
-        start_date: 2012-09-01
-        end_date: 2007-06-01
+        start_date: 2007-06-01
+        end_date: 2012-09-01
         highlights:
           - Graduation project: Use NMF algorithm to predict changes in appearance of people as they grow up
           - Served as a system administrator of the NCKU Dreamland BBS under the Computer and Network Enthusiast Society (CCNS).
@@ -51,10 +51,10 @@ cv:
     Experience:
       - company: China Steel Corporation
         position: Research Fellow
-        location: Kaohsiung City, Taiwan
+        location: Kaohsiung City, Taiwan (R.O.C.)
         start_date: 2025-12-01
-        end_date:
-        summary:
+        end_date: 
+        summary: 
         highlights:
           - Description 1.
           - Description 2.
@@ -69,45 +69,42 @@ cv:
           - Description 2.
 
       - company: Wistron Corporation
-        position: Visiting Professor
-        location: Kaohsiung City, Taiwan
+        position: Engineer
+        location: Kaohsiung City, Taiwan (R.O.C.)
         start_date: 2018-05-07
         end_date: 2025-11-27
         highlights:
           - Description 1.
           - Description 2.
 
-    Volunteer:
+    Alternative Service:
       - company: Taiwan Chiayi District Prosecutors Office
-        position: Clerk Assistant
-        location: Chiayi City, Taiwan
+        position: Alternative Service Conscript (Administrative Support)
+        location: Chiayi City, Taiwan (R.O.C.)
         start_date: 2012-10
         end_date: 2013-09
-        summary: Working in the case assignment office to classify and correct incoming files, and transfer to the prosecutors.
-        highlights:
-          -
-          -
+        summary: Completed compulsory alternative civilian service, supporting case assignment operations by classifying and checking incoming case files and routing them to prosecutors.
 
     Awards:
-      - title:
+      - title: 
         authors:
           - ""
         date: 1921-11-01
-        awarder:
-        url:
-        summary:
+        awarder: 
+        url: 
+        summary: 
 
     Publications:
-      - title:
+      - title: 
         authors:
-          -
-        publisher:
+          - 
+        publisher: 
         releaseDate: 1905-06-30
-        url:
-        summary:
+        url: 
+        summary: 
 
     Skills:
-      - name:
+      - name:  
         level: Master
         icon: fa-solid fa-hashtag
         keywords: ""
@@ -120,32 +117,32 @@ cv:
         summary: "Intermediate"
 
     Interests:
-      - name:
+      - name: 
         icon: fa-solid fa-tag
         keywords: ""
 
     Certificates:
-      - name:
+      - name: 
         date: 2018-01-01
-        issuer:
+        issuer: 
         icon: fa-solid fa-location-dot
 
-      - name:
+      - name: 
         date: 2018-01-01
-        issuer:
+        issuer: 
         icon: fa-solid fa-tag
 
-      - name:
+      - name: 
         date: 2018-01-01
-        issuer:
+        issuer: 
         icon: fa-solid fa-envelope
 
     Projects:
-      - name:
-        summary:
+      - name: 
+        summary: 
         highlights:
-          -
-          -
+          - 
+          - 
         start_date: 2018-01-01
         end_date: 2018-01-01
 
