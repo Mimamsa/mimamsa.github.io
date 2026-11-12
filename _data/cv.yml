@@ -92,23 +92,22 @@ cv:
     #     url: 
     #     summary: 
 
-    # Publications:
-    #   - title: 
-    #     authors:
-    #       - 
-    #     publisher: 
-    #     releaseDate: 1905-06-30
-    #     url: 
-    #     summary: 
+    Publications:
+      # - title: 
+      #   authors:
+      #     - 
+      #   publisher: 
+      #   releaseDate: 1905-06-30
+      #   url: 
+      #   summary: 
 
-    Patents:
       - title: Exercise Analysis Method, Server And Terminal Apparatus Used For Exercise Analysis
         authors:
           - Hsieh, Yi-Yun
           - Li, Ming-Jie
           - Chen, Yu-Hsien
         date: 2024-12-11
-        journal: Taiwan Invention Patent No. I866785 (Granted)
+        publisher: Taiwan Invention Patent No. I866785 (Granted)
         url: https://tiponet.tipo.gov.tw/twpat2/twpatc/twpatkm?!!FRURLI866785
         summary: An exercise analysis method, a server, and a terminal apparatus used for exercise analysis are provided. In the method, sensing data is transmitted through the network, analysis information is generated based on the sensing data, analysis information is fed back through the network, and analysis information is presented through the user interface. The sensing data corresponds to the motion state. Analysis information is used to analyze movement status. Therefore, the operating experience could be improved.
 
