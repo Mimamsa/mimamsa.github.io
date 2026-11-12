@@ -3,23 +3,22 @@ cv:
   label: Engineer
   email: illusion.dark@gmail.com
   location: Taiwan
-  image: ""
+  # image: ""
   summary: Research engineer with a background in machine learning, robotics, and sensor-based systems across industrial automation and healthcare. Experienced in LiDAR mapping, SLAM, stockpile volume estimation, and warehouse localization at China Steel Corporation. Previously worked on vision-guided robotic picking, tactile sensing for medical applications, and millimeter-wave radar for sleep apnea detection at Wistron. Skilled in developing algorithms and integrating software with hardware to turn research ideas into practical prototypes and field-tested systems.
 
-
   social_networks:
-    - network: X
-      username: 
+    # - network: X
+    #   username: 
     - network: GitHub
       username: Mimamsa
     - network: LinkedIn
       username: yu-hsien-chen-165bb5a3
 
   address:
-    street: 
+    # street: 
     city: Kaohsiung City
-    region: 
-    postalCode: 
+    region: Linya Dist
+    postalCode: 802034
     countryCode: Taiwan
 
   sections:
@@ -32,9 +31,9 @@ cv:
         start_date: 2014-09-01
         end_date: 2017-02-01
         score: "Overall GPA: 4.64/5, Rank: 2/48"
-        courses: 
+        # courses: 
         highlights:
-          - "Thesis: Learning to Drive in TORCS with Deep Reinforcement Learning"
+          - Thesis - Learning to Drive in TORCS with Deep Reinforcement Learning
           - Taught machine learning as a teaching assistant (TA).
 
       - institution: National Cheng Kung University
@@ -45,15 +44,15 @@ cv:
         start_date: 2007-06-01
         end_date: 2012-09-01
         highlights:
-          - "Graduation project: Use NMF algorithm to predict changes in appearance of people as they grow up"
+          - Graduation project - Use NMF algorithm to predict changes in appearance of people as they grow up
           - Served as a system administrator of the NCKU Dreamland BBS under the Computer and Network Enthusiast Society (CCNS).
 
     Experience:
       - company: China Steel Corporation
-        position: Research Fellow
+        position: Research Engineer
         location: Kaohsiung City, Taiwan
         start_date: 2025-12-01
-        end_date: 
+        # end_date: 
         summary: 
         highlights:
           - Description 1.
@@ -69,7 +68,7 @@ cv:
           - Description 2.
 
       - company: Wistron Corporation
-        position: Engineer
+        position: Staff Engineer
         location: Kaohsiung City, Taiwan
         start_date: 2018-05-07
         end_date: 2025-11-27
@@ -85,28 +84,40 @@ cv:
         end_date: 2013-09
         summary: Completed compulsory alternative civilian service, supporting case assignment operations by classifying and checking incoming case files and routing them to prosecutors.
 
-    Awards:
-      - title: 
-        authors:
-          - ""
-        date: 1921-11-01
-        awarder: 
-        url: 
-        summary: 
+    # Awards:
+    #   - title: 
+    #     authors:
+    #       - ""
+    #     date: 1921-11-01
+    #     awarder: 
+    #     url: 
+    #     summary: 
 
-    Publications:
-      - title: 
+    # Publications:
+    #   - title: 
+    #     authors:
+    #       - 
+    #     publisher: 
+    #     releaseDate: 1905-06-30
+    #     url: 
+    #     summary: 
+
+    Patents:
+      - title: Exercise Analysis Method, Server And Terminal Apparatus Used For Exercise Analysis
         authors:
-          - 
-        publisher: 
-        releaseDate: 1905-06-30
-        url: 
-        summary: 
+          - Hsieh, Yi-Yun
+          - Li, Ming-Jie
+          - Chen, Yu-Hsien
+        date: 2024-12-11
+        institution: Taiwan Invention Patent No. I866785 (Granted)
+        url: https://tiponet.tipo.gov.tw/twpat2/twpatc/twpatkm?!!FRURLI866785
+        highlights:
+          - "An exercise analysis method, a server, and a terminal apparatus used for exercise analysis are provided. In the method, sensing data is transmitted through the network, analysis information is generated based on the sensing data, analysis information is fed back through the network, and analysis information is presented through the user interface. The sensing data corresponds to the motion state. Analysis information is used to analyze movement status. Therefore, the operating experience could be improved."
 
     Skills:
-      - name:  
+      - name: Freestyle Slalom Skating
         level: Master
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-person-skating
         keywords: ""
 
     Languages:
@@ -117,40 +128,44 @@ cv:
         summary: "Intermediate"
 
     Interests:
-      - name: 
-        icon: fa-solid fa-tag
+      - name: Cooking
+        icon: fa-solid fa-pot-food
+        keywords: ""
+
+      - name: Dog
+        icon: fa-solid fa-dog
         keywords: ""
 
     Certificates:
-      - name: 
-        date: 2018-01-01
-        issuer: 
-        icon: fa-solid fa-location-dot
+      - name: Scrum Master Accredited Certification™
+        date: 2020-06-18
+        issuer: International Scrum Institute™
+        icon: fa-solid fa-football
 
-      - name: 
-        date: 2018-01-01
-        issuer: 
-        icon: fa-solid fa-tag
-
-      - name: 
-        date: 2018-01-01
-        issuer: 
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: 
-        summary: 
-        highlights:
-          - 
-          - 
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
+      - name: IBM Data Science
+        date: 2025-08-04
+        issuer: IBM
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Introduction to Sketching
+        date: 2022-11-18
+        issuer: OnShape PTC
+        icon: fa-solid fa-pen
+
+    # Projects:
+    #   - name: 
+    #     summary: 
+    #     highlights:
+    #       - 
+    #       - 
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
+
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.

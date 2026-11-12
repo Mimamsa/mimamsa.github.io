@@ -29,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a research fellow at [China Steel Corporation](https://www.csc.com.tw/indexe.html), working on stockyard digitalization and industrial automation. My recent projects include LiDAR-based 3D mapping, automated stockpile volume estimation, and forklift localization for warehouse tracking. I develop both software and scanning hardware, taking ideas from early prototypes to field testing.
+I am a research engineer at [China Steel Corporation](https://www.csc.com.tw/indexe.html), working on stockyard digitalization and industrial automation. My recent projects include LiDAR-based 3D mapping, automated stockpile volume estimation, and forklift localization for warehouse tracking. I develop both software and scanning hardware, taking ideas from early prototypes to field testing.
 
-Previously, I was a senior engineer at [Wistron Corporation](https://www.wistron.com/en), working on robotics and healthcare sensing. My projects included vision-guided robotic arms for object picking, tactile sensing for medical applications, and millimeter-wave radar for detecting sleep apnea. These projects involved applying machine learning and sensor data processing to help machines perceive objects, physical contact, and human physiological signals.
+Previously, I was a staff engineer at [Wistron Corporation](https://www.wistron.com/en), working on robotics and healthcare sensing. My projects included vision-guided robotic arms for object picking, tactile sensing for medical applications, and millimeter-wave radar for detecting sleep apnea. These projects involved applying machine learning and sensor data processing to help machines perceive objects, physical contact, and human physiological signals.
 
 My expertise spans data science, machine learning, robotics, SLAM, and point cloud processing. I enjoy combining software, sensors, and hardware to build practical systems that solve real-world problems.
