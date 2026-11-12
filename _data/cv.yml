@@ -76,7 +76,6 @@ cv:
           - Description 1.
           - Description 2.
 
-    Alternative Service:
       - company: Taiwan Chiayi District Prosecutors Office
         position: Alternative Service Conscript (Administrative Support)
         location: Chiayi City, Taiwan
@@ -109,16 +108,15 @@ cv:
           - Li, Ming-Jie
           - Chen, Yu-Hsien
         date: 2024-12-11
-        institution: Taiwan Invention Patent No. I866785 (Granted)
+        journal: Taiwan Invention Patent No. I866785 (Granted)
         url: https://tiponet.tipo.gov.tw/twpat2/twpatc/twpatkm?!!FRURLI866785
-        highlights:
-          - "An exercise analysis method, a server, and a terminal apparatus used for exercise analysis are provided. In the method, sensing data is transmitted through the network, analysis information is generated based on the sensing data, analysis information is fed back through the network, and analysis information is presented through the user interface. The sensing data corresponds to the motion state. Analysis information is used to analyze movement status. Therefore, the operating experience could be improved."
+        summary: An exercise analysis method, a server, and a terminal apparatus used for exercise analysis are provided. In the method, sensing data is transmitted through the network, analysis information is generated based on the sensing data, analysis information is fed back through the network, and analysis information is presented through the user interface. The sensing data corresponds to the motion state. Analysis information is used to analyze movement status. Therefore, the operating experience could be improved.
 
     Skills:
-      - name: Freestyle Slalom Skating
+      - name: Inline Skating
         level: Master
         icon: fa-solid fa-person-skating
-        keywords: ""
+        keywords: "Freestyle Slalom Skating"
 
     Languages:
       - name: Mandarin
@@ -129,12 +127,12 @@ cv:
 
     Interests:
       - name: Cooking
-        icon: fa-solid fa-pot-food
-        keywords: ""
+        icon: fa-solid fa-kitchen-set
+        keywords: "Gumbo, Falafel"
 
       - name: Dog
         icon: fa-solid fa-dog
-        keywords: ""
+        keywords: "Samoyed
 
     Certificates:
       - name: Scrum Master Accredited Certification™
